@@ -1,1 +1,2 @@
 # DigitalHumanities
+# stuff for class 
